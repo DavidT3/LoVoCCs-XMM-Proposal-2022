@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+*.fits
+*.jar
+.DS_Store
+._.DS_Store
+*xga_output
+skycache
